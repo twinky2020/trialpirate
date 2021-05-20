@@ -1,2 +1,2 @@
-# trialpirate
-twinycheck
+# PiratesInvasion
+pirates invasion game
